@@ -3,6 +3,7 @@ collections:
     output: true
 plugins:
   - jekyll-feed
+  - jekyll-git-hash
 theme: mimoza
 scribouilli: true
 baseurl: /we01_projet-1_nawel.lebrac_barthelemy.penet--baranger
