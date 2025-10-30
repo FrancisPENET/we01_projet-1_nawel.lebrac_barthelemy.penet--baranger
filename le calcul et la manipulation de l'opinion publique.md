@@ -30,4 +30,3 @@ in_menu: true
 Par Nawel Labrach et Barthélemy Penet--Baranger
 
  <img src="https://i.postimg.cc/sDzzx7pP/by-nc-sa.png" /> 
-` 
